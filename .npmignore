@@ -1,0 +1,9 @@
+*.log
+.idea
+
+node_modules
+spec
+target
+
+.editorconfig
+.eslintrc

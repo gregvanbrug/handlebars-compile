@@ -1,0 +1,15 @@
+{
+  "name": "handlebars-compile",
+  "version": "0.1.0",
+  "description": "A Handlebars compiler",
+  "main": "index.js",
+  "dependencies": {
+    "beautify": "0.0.8",
+    "chalk": "2.4.2",
+    "globule": "1.2.1",
+    "handlebars": "4.1.2",
+    "handlebars-layouts": "3.1.4",
+    "lodash": "4.17.15",
+    "mkdirp": "0.5.1"
+  }
+}

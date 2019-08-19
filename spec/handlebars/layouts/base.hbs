@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <meta name="description" content="hbs" />
+    <meta name="version" content="{{ data.version }}" />
+
+    <title>Handlebars</title>
+
+</head>
+
+<body>
+
+    {{ data.hello }}
+
+    <div>
+        {{> headerPartial }}
+        {{#block "body"}}{{/block}}
+    </div>
+
+</body>
+</html>
