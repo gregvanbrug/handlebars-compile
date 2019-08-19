@@ -15,7 +15,7 @@ const settings = {
 compile(settings);
 ```
 
-For additional usage examples, see `spec/build.js`;
+For additional usage examples, see `/spec`;
 
 ## Options
 
