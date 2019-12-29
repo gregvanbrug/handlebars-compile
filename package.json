@@ -7,7 +7,7 @@
     "beautify": "0.0.8",
     "chalk": "2.4.2",
     "globule": "1.2.1",
-    "handlebars": "4.1.2",
+    "handlebars": "4.3.0",
     "handlebars-layouts": "3.1.4",
     "lodash": "4.17.15",
     "mkdirp": "0.5.1"
