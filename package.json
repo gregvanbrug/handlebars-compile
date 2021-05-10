@@ -9,7 +9,7 @@
     "globule": "1.2.1",
     "handlebars": "4.5.3",
     "handlebars-layouts": "3.1.4",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "mkdirp": "0.5.1"
   }
 }
